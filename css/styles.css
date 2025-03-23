@@ -31,6 +31,7 @@ h6 {
 
 img {
   display: block;
+  max-width: 100%;
 }
 
 /* -----------------Page-----------------*/
@@ -246,8 +247,6 @@ img {
 }
 
 .team-img {
-  margin-bottom: 32px;
-  width: 264px;
 }
 
 .team-subtitle-two {
@@ -267,12 +266,10 @@ img {
 .team-container {
   width: 232px;
   height: 56px;
-  margin-left: 16px;
-  margin-right: 16px;
   text-align: center;
   margin: 0 auto;
+  margin-top: 32px;
   margin-bottom: 32px;
-  padding: 32px 0;
 }
 
 /* -----------------Portfolio-----------------*/
